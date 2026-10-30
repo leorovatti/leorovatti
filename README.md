@@ -173,14 +173,14 @@ Integração de **ferramentas, documentos, APIs e modelos de IA** em fluxos de t
 
 <table width="100%">
   <tr>
-    <td valign="middle">
-      <h3>✉️ Contato por e-mail</h3>
-      <p>Para propostas profissionais, parcerias e assuntos de pesquisa.</p>
-    </td>
-    <td align="center" valign="middle">
-      <a href="mailto:leorovatti@gmail.com">
-        <img src="https://img.shields.io/badge/leorovatti%40gmail.com-242938?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Enviar e-mail para leorovatti@gmail.com" />
-      </a>
+    <td align="left">
+      <p><strong>✉️ Contato por e-mail</strong><br />
+      </p>
+      <p>
+        <a href="mailto:leorovatti@gmail.com">
+          <img src="https://img.shields.io/badge/E--mail-leorovatti%40gmail.com-242938?style=flat-square&logo=gmail&logoColor=BD93F9" height="28" alt="Enviar e-mail para leorovatti@gmail.com" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
